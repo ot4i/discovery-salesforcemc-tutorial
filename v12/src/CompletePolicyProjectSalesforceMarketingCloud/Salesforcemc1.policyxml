@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<policies>
+  <policy policyType="salesforcemc" policyName="Salesforcemc1" policyTemplate="online_v1_oauth2_credentials">
+    <credentialName>CompletePolicyProjectSalesforcemc_Salesforcemc1</credentialName>
+    <applicationVersion>v1</applicationVersion>
+    <applicationType>online</applicationType>
+    <authenticationMethod>OAUTH2_CREDENTIALS</authenticationMethod>
+    <subdomain>REPLACE_WITH_YOUR_TENANT_SUBDOMAIN</subdomain>
+  </policy>
+</policies>
